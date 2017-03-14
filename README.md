@@ -19,5 +19,6 @@ Download Academic.keylayout, Academic.icns and move them to (~/Library/Keyboard 
 ![Default](https://raw.githubusercontent.com/jendas1/multipurpose-keyboard-layout/master/photos/default.png)
 ![Shift](https://raw.githubusercontent.com/jendas1/multipurpose-keyboard-layout/master/photos/shift.png)
 ![Option](https://raw.githubusercontent.com/jendas1/multipurpose-keyboard-layout/master/photos/option.png)
+![Control](https://raw.githubusercontent.com/jendas1/multipurpose-keyboard-layout/master/photos/control.png)
 ![Caps Lock](https://raw.githubusercontent.com/jendas1/multipurpose-keyboard-layout/master/photos/caps.png)
 ![Caps Lock + Shift](https://raw.githubusercontent.com/jendas1/multipurpose-keyboard-layout/master/photos/caps+shift.png)
